@@ -65,12 +65,3 @@ Ao eliminar horas de retrabalho com a reanálise de documentos, o projeto não s
 
 ---
 
-## 🛠️ Como executar o projeto localmente
-
-### 1. Pré-requisitos
-Certifique-se de ter o [Node.js](https://nodejs.org/) instalado na sua máquina.
-
-### 2. Clonar o Repositório
-```bash
-git clone [https://github.com/SEU_USUARIO/sisproc-prefeitura.git](https://github.com/SEU_USUARIO/sisproc-prefeitura.git)
-cd sisproc-prefeitura
